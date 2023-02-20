@@ -10,6 +10,7 @@
                 ['link' => '#', 'title' => 'Dashboard'],
             ]])
         </div>
+        <!-- Dashboard Items -->
         <div class="row">
             <div class="col-md-6 col-lg-3">
                 <div class="widget-small primary coloured-icon"><i class="icon fa fa-users fa-3x"></i>
@@ -62,5 +63,8 @@
                 </div>
             </div>
         </div>
+
+
+        <!-- Table -->
     </main>
 @endsection
